@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android , MEARN , React**
 
-- 📫 How to reach me **thilz.akmee@gmail.com**
+- 📫 How to reach me **thilandasantha9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
