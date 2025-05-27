@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android , MEARN , React**
+- 💬 Ask me about **Springboot, React**
 
 - 📫 How to reach me **thilandasantha9@gmail.com**
 
