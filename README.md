@@ -1,7 +1,7 @@
 ![MasterHead](https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?resize=1024%2C576&ssl=1)
 <h1 align="center">Hi 👋, I'm Thilan Dasantha</h1>
 <h3 align="center">Undergraduate student at SLIIT</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilanda&label=Profile%20views&color=0e75b6&style=flat" alt="thilanda" /> </p>
 
