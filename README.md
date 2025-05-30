@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thilanakmeemana" target="blank"><img src="https://img.shields.io/twitter/follow/thilanakmeemana?logo=twitter&style=for-the-badge" alt="thilanakmeemana" /></a> </p>
 
-- 🔭 I’m currently working on **Mother and Baby Health Management App / Shopping mall Application**
+- 🔭 I’m currently working on **Iot Integrated Machine Learning Farm Security System**
 
 - 🌱 I’m currently learning **React Native**
 
