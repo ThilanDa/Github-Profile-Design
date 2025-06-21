@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?resize=1024%2C576&ssl=1)
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRiNnp4ZXVvYTV0eHJjNTZ1Y3dyNXQ0enp2dWVkZjNnaTU2cXlhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif)
 <h1 align="center">Hi 👋, I'm Thilan Dasantha</h1>
 <h3 align="center">Undergraduate student at SLIIT</h3>
 
