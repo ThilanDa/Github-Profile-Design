@@ -14,6 +14,9 @@
 - 💬 Ask me about **Springboot, React**
 
 - 📫 How to reach me **thilandasantha9@gmail.com**
+  
+- 🚀 linkedin **www.linkedin.com/in/thilan-akmeemana-66ab61215**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
