@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+![MasterHead](https://i.pinimg.com/originals/95/ef/b8/95efb8425d270933e5e890b33ab5ef70.gif)
 <h1 align="center">Hi 👋, I'm Thilan Dasantha</h1>
 <h3 align="center">Undergraduate student at SLIIT</h3>
 
