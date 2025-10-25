@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Iot Integrated Machine Learning Farm Security System**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Springboot, React**
 
